@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello");
             //Update from GitHub
             //2nd commit
+            //Feature 2 comment
         }
     }
 }
